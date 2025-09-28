@@ -1,4 +1,4 @@
-<img width="1663" height="705" alt="image" src="https://github.com/user-attachments/assets/900e0981-0994-4ba4-b01e-4e507c024ff4" /># 🎮 Unity3D Portfolio RPG Game - Break Door
+# 🎮 Unity3D Portfolio RPG Game - Break Door
 
 ## 📹 동영상 링크
 <a href="https://www.youtube.com/watch?v=nRR5hBKcQ8E" target="_blank">
