@@ -1,0 +1,9 @@
+
+=== Mon Dec  4 03:43:09 2023
+
+Packages were changed.
+Update Mode: resetToDefaultDependencies
+
+The following packages were removed:
+  com.unity.2d.sprite@1.0.0
+  com.unity.memoryprofiler@0.7.1-preview.1
